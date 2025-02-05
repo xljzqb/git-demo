@@ -8,5 +8,8 @@ hellogit
 hellogit
 hellogit
 hellogit
+<<<<<<< HEAD
 hellogit!master test
-hellogit
+=======
+hellogit hot-text
+>>>>>>> hot-fix
